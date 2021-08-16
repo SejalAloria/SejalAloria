@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Artificial Intelligence.
 - 🙋🏻‍♀ Pronouns: She/Her
 - 💞️ Fun Fact: Sometimes I start talking into Binary
-- 📫 How to reach me 
+- 📫 Connect with me at [LinkedIn](https://www.linkedin.com/in/sejal-aloria-0599261b2/)
 
 <!---
 SejalAloria/SejalAloria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
