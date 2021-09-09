@@ -1,5 +1,5 @@
 ##  👋 Hi, I’m @SejalAloria
-- 👀 I’m interested in Web Development and Cloud Computing.
+- 👀 I’m Passionate about Coding and interested in Web Development and Cloud Computing.
 - 🌱 I’m currently learning Artificial Intelligence.
 - 🙋🏻‍♀ Pronouns: She/Her
 - 💞️ Fun Fact: Sometimes I start talking into Binary
