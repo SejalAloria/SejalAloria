@@ -2,7 +2,6 @@
 - 👀 I’m Passionate about Coding and interested in Web Development and Cloud Computing.
 - 🌱 I’m currently learning Artificial Intelligence.
 - 🙋🏻‍♀ Pronouns: She/Her
-- 💞️ Fun Fact: Sometimes I start talking into Binary
 - 📫 Connect with me at [LinkedIn](https://www.linkedin.com/in/sejal-aloria-0599261b2/)
 
 <!---
