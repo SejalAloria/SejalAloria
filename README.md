@@ -5,7 +5,7 @@
  I recently received full-time SDE Roles from JP Morgan Chase & Co., Glasgow, United Kingdom and Visa, India. I will be joining one of them next year.
  I have done my internship as a Software Development Engineer Intern at Expedia Group in the Virtual Agent Control Team and I was also pasrt of Microsft Engage Mentorship Program'2021.
 - Pronouns: She/Her
-- 📫 Connect with me at [LinkedIn](https://www.linkedin.com/in/sejal-aloria-0599261b2/), [#️⃣Twitter](https://twitter.com/SejalAloria?t=rYrsTDvatu7Kw6xrfAObxA&s=09)
+- 📫 Connect with me at [LinkedIn](https://www.linkedin.com/in/sejal-aloria-0599261b2/), [Twitter](https://twitter.com/SejalAloria?t=rYrsTDvatu7Kw6xrfAObxA&s=09)
 
 - 👀 I’m Passionate about Coding and interested in Web Development and Cloud Computing.
 - 🌱 I am an Incoming Software Development Engineer Intern at Expedia Group also was a mentee under Microsoft Engage'2021.
